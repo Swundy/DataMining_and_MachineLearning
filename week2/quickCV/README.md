@@ -38,11 +38,11 @@
 * Computer
     * Programming: R, Python, C++
 * Languages
-    * English, French, Spanish, German and Chinese 
+    * English, French, Spanish, German and Italian 
 ---
 ## Hobbies
 
-1. Hiking
+1. super hicking
 2. Acting
 3. Running
 4. Singing
